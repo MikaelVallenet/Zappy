@@ -127,7 +127,7 @@ The final test was to reach the maximum level in 10 minutes, we reached it in ab
 
 As a bonus, we have developed a mobile application that integrates the graphic client in augmented reality. The phone connects like a classic client on the network to communicate with the server on the machine.
 
-![video](https://www.youtube.com/watch?v=DI_l7lQiE4U)
+A video of presentation is available [here](https://www.youtube.com/watch?v=DI_l7lQiE4U) :star:
 
 
 ------------
